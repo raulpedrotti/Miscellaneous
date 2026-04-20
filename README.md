@@ -1,3 +1,2 @@
-# Personal information and miscellaneous projects
+# Miscellaneous projects and technical skills
 
-Contains my personal information and a little brief about my academic experience in another projects
