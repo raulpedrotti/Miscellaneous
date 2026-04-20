@@ -23,6 +23,8 @@
     - MatLab
     - Python
     - Overleaf
+    - VerilogA
     - C/C++
     - A little bit of TCL
-    - A little bit of Spice language
+    - A little bit of Spice 
+    
